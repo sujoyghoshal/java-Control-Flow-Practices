@@ -18,7 +18,7 @@ This submission includes solutions covering key Java programming concepts and be
 - **All values are stored as variables**, including Fixed, User Inputs, and Results.
 - **Proper Program Name and Class Name** are used.
 - **Indentation is properly maintained** throughout the code.
-- **Logical blocks and steps are commented** properly.
+- **Logical blocks and steps are commented** properly. 
 - **Meaningful variable names** following Java naming conventions.
 
 ---
